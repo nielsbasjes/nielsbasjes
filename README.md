@@ -5,3 +5,5 @@ I work as an IT-architect at [https://www.bol.com](https://partner.bol.com/click
 
 I'm also an avid opensource contributor and you'll find patches of me in lots of Apache "BigData" projects.
 Committer for Apache Flink and Comitter/PMC for Apache Avro.
+
+<a rel="me" href="https://mastodon.basjes.nl/@niels" style="display:none">Me on Mastodon</a>
