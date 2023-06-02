@@ -9,6 +9,4 @@ Committer for Apache Flink and Comitter/PMC for Apache Avro.
 
 [![Niels' github stats](https://github-readme-stats.vercel.app/api?username=nielsbasjes)](https://github.com/nielsbasjes)
 
-![Niels' github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nielsbasjes&theme=github)
-
-<a href="https://mastodon.basjes.nl/@niels" rel="me">.</a>
+![Niels' github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nielsbasjes&theme=github)
